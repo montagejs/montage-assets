@@ -1,1 +1,1 @@
-Assets for Montage
+Assets and artwork for [Montage](https://github.com/montagejs/montage)
